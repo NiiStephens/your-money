@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Ur money
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -53,17 +53,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### Ur Money
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Ur money is an Expense Tracker application that seeks to enable the user to be able to 
+navigate through the income and expenditure sections to make entries of cash deposit and payments made. By doing this the user can be able to use track their expenditure and income. The Application employs a context API to enable the user fetch data locally on their device.
 
-### Advanced Configuration
+### Features of Ur Money
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Ur money seeks comes with a compute function that enables users to add their thransactions whether it is expenditure or income.
+
+Ur money has a delete feature that enables user to delete unwanted transaction records.
+
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Ur money is deployed on Vercel to enable users to have the access of the application for their own use to enable them track their expenses on the go.
 
 ### `npm run build` fails to minify
 

@@ -28,7 +28,7 @@ function onChangeIncome (event) {
          id: uuidv4(),
          incomeText,
          incomeAmount: incomeAmount * 1,
-       };
+       }
 
       function addIncome (newIncomeTransaction){
         return newIncomeTransaction
